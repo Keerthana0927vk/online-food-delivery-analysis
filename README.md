@@ -68,3 +68,5 @@ online-food-delivery-analysis/
 ## Author
 
 Keerthu
+## Dashboard Preview
+![Dashboard](dashboard/powerbi_dashboard.png)
